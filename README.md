@@ -2,8 +2,8 @@ Project Link : https://three-task.netlify.app/
 
 # Project Documentation: Sum, Append Strings, and Count Words 
 
-The project is built using Node.js for the backend and React for the frontend.
-This documentation provides an overview of the frontend code for the web application that offers three main functionalities: Sum, Append Strings, and Count Words. The frontend is built using React.
+- The project is built using Node.js for the backend and React for the frontend.
+- This documentation provides an overview of the frontend code for the web application that offers three main functionalities: Sum, Append Strings, and Count Words. The frontend is built using React.
 
 ## Table of Contents
 
