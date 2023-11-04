@@ -1,0 +1,44 @@
+/* navBar */
+.title{
+    text-align: center;
+    text-transform: uppercase;
+}
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: black;
+    width: 80%;
+    height: 60px;
+    margin: auto;
+    list-style: none;
+  }
+.link {
+    text-decoration: none;
+    font-size: small;
+    cursor: pointer;
+    color: white;
+    text-transform: uppercase;
+}
+.active {
+color: red;
+}
+
+
+/* sum */
+.parent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 5%;
+}
+table{
+    width: 35%;
+    height: 25%;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 1%;
+}
+th{
+    text-align: left;
+}
